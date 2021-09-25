@@ -1,2 +1,2 @@
 # test
-Testing reprository
+Reprository for testing
